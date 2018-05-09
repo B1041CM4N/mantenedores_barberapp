@@ -1,11 +1,11 @@
 <?php
   // Nombre del server
   // $ServerName = "localhost";
-  $ServerName="104.131.72.199";
+  $ServerName="localhost";
   // Nombre de usuario
   $UserName = "root";
   // Contraseña
-  $Password = "BARBERAPP2018DB";
+  $Password = $SECRET_DBPASSWORD;
   // Nombre de base de datos
   $DBName = "barberappdb";
 ?>
